@@ -36,7 +36,7 @@ def clear():
 # Set up the main window
 root = tk.Tk()
 root.title("Jebedaia Calculator")
-root.geometry("500x450")
+root.geometry("500x425")
 
 # Entry box for the calculator
 entry = tk.Entry(root, width=30, font=("Arial", 18), borderwidth=5)
