@@ -35,7 +35,7 @@ def clear():
 
 # Set up the main window
 root = tk.Tk()
-root.title("Allysson Calculator")
+root.title("Jebedaia Calculator")
 root.geometry("500x450")
 
 # Entry box for the calculator
